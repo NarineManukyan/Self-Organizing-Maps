@@ -6,8 +6,7 @@ ABSTRACT: The Cluster Reinforcement phase advances cluster separation in a self-
 
 The driver function demoCR.m illustrates how to use these functions on an already trained SOM using Kohonen's animal data.
 
-The primary functions are:
-
+The primary functions:
 CR.m (Cluster Reinforcement Phase for SOM),
 B_matrix.m (Create Boundary Distance Matrix),
 Plot_B.m (Display B-matrix as a heat map),
