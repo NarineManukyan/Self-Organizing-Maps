@@ -6,17 +6,25 @@ This code implements methods for automatic cluster reinforcement and hierarchica
 The primary functions are:
 
 CR.m (Cluster Reinforcement Phase for SOM)
+
 B_matrix.m (Create Boundary Distance Matrix)
+
 Plot_B.m (Display B-matrix as a heat map)
+
 PlotBLines.m (Display B-values as grid lines on top of component planes)
 
 The driver function demoCR.m illustrates how to use these functions on an already trained SOM using Kohonen's animal data.
 
 Auxilliary functions:
+
 BestMatchingNeurons.m
+
 BmatrixCbFcn.m
+
 B_GUI.m
+
 eucdist.m
+
 index_of_closest.m
 
 We also provide SOM code (SOM.m) for users convenience.
