@@ -13,7 +13,7 @@ B_matrix.m (Create Boundary Distance Matrix),
 Plot_B.m (Display B-matrix as a heat map),
 PlotBLines.m (Display B-values as grid lines on top of component planes).
 
-Auxilliary functions:
+Auxiliary functions:
 BestMatchingNeurons.m,
 BmatrixCbFcn.m,
 B_GUI.m,
